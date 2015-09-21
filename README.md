@@ -16,7 +16,7 @@ Circuit:
 
 Assemble the circuit according to the following schematics:
 
-![TTL Trigger circuit](/Circuit/BNC TTL trigger "TTL Trigger with BNC terminal")
+![TTL Trigger circuit](/Circuit/BNC TTL trigger.png "TTL Trigger with BNC terminal")
 
 The rep also includes a mount which can be 3d printed for encasing all the components. 
 
