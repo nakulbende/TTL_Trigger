@@ -1,4 +1,4 @@
-# TTL_Trigger
+# Arduino TTL Trigger
 
 Make a TTL Trigger using Arduino. Simple writing a 5V voltage to one of the digital pins should do the job. 
 
