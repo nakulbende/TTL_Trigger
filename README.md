@@ -1,8 +1,8 @@
 # Arduino TTL Trigger
 
-Make a TTL Trigger using Arduino. Simple writing a 5V voltage to one of the digital pins should do the job. 
+Make a TTL Trigger using Arduino. Simply writing a 5V voltage to one of the digital pins should do the job. 
 
-This version outputs to a BNC terminal commonly used in scientific instruments. The sketch also includes an option to define duration for which the TTL trigger will be on HIGH. 
+This version outputs the ttl signal to a BNC terminal commonly used in scientific instruments. The sketch also includes an option to define duration for which the TTL trigger will be on HIGH.
 
 Bill of materials:
 
