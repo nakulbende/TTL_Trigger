@@ -26,4 +26,4 @@ The rep also includes a mount which can be 3d printed for encasing all the compo
 
 # Assembly: 
 Get the components and complete the electric circuit. You can bypass the voltage regulator, in case the signal is too weak.
-![Mount](/3d printed mount/assembly.PNG "Final assembly")
+![Mount](/3d printed mount/assembly.png "Final assembly")
