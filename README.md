@@ -23,6 +23,15 @@ Assemble the circuit according to the following schematics:
 Mount:
 ![Mount](/3d printed mount/mount.PNG "3D printed mount")
 The rep also includes a mount which can be 3d printed for encasing all the components. The mount is compatible with a Nano mounted on breadboard, and has slots for LED and push button. 
+<<<<<<< HEAD
+=======
+
+Assembly: 
+Get the components and complete the electric circuit. You can bypass the voltage regulator, in case the signal is too weak.
+
+![Mount](/3d printed mount/assembly.PNG "Reset button, mount assembly")
+![Mount](/3d printed mount/finished.PNG "Final setup")
+>>>>>>> master
 
 Assembly: 
 Get the components and complete the electric circuit. You can bypass the voltage regulator, in case the signal is too weak.
