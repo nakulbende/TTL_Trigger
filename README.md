@@ -4,7 +4,7 @@ Make a TTL Trigger using Arduino. Simply writing a 5V voltage to one of the digi
 
 This version outputs the ttl signal to a BNC terminal commonly used in scientific instruments. The sketch also includes an option to define duration for which the TTL trigger will be on HIGH.
 
-Bill of materials:
+# Bill of materials:
 
 1. [Arduino (any model is fine, this uses Nano)](http://www.amazon.com/SainSmart-Nano-v3-0-Compatible-Arduino/dp/B00761NDHI/ref=sr_1_2?s=electronics&ie=UTF8&qid=1442873593&sr=1-2&keywords=arduino+nano)
 
@@ -16,25 +16,14 @@ Bill of materials:
 
 5. [Voltage regulator (positive, 5V)](http://www.amazon.com/Addicore-Positive-Regulator-L7805CV-Antistatic/dp/B00H7KTRO6/ref=sr_1_3?ie=UTF8&qid=1442873567&sr=8-3&keywords=voltage+regulator)
 
-Circuit:
+# Circuit:
 Assemble the circuit according to the following schematics:
 ![TTL Trigger circuit](/Circuit/BNC TTL trigger.png "TTL Trigger with BNC terminal")
 
-Mount:
+# Mount:
 ![Mount](/3d printed mount/mount.PNG "3D printed mount")
 The rep also includes a mount which can be 3d printed for encasing all the components. The mount is compatible with a Nano mounted on breadboard, and has slots for LED and push button. 
-<<<<<<< HEAD
-=======
 
-Assembly: 
+# Assembly: 
 Get the components and complete the electric circuit. You can bypass the voltage regulator, in case the signal is too weak.
-
-![Mount](/3d printed mount/assembly.PNG "Reset button, mount assembly")
-![Mount](/3d printed mount/finished.PNG "Final setup")
->>>>>>> master
-
-Assembly: 
-Get the components and complete the electric circuit. You can bypass the voltage regulator, in case the signal is too weak.
-
-![Mount](/3d printed mount/assembly.PNG "Reset button, mount assembly")
-![Mount](/3d printed mount/finished.PNG "Final setup")
+![Mount](/3d printed mount/assembly.PNG "Final assembly")
