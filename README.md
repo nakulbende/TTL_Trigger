@@ -18,7 +18,7 @@ This version outputs the ttl signal to a BNC terminal commonly used in scientifi
 
 # Circuit:
 Assemble the circuit according to the following schematics:
-![TTL Trigger circuit](/Circuit/BNC TTL trigger.png "TTL Trigger with BNC terminal")
+![TTL Trigger circuit with BNC terminal](/Circuit/BNC_TTL_trigger.png)
 
 # Mount:
 ![Mount](/3d printed mount/mount.PNG "3D printed mount")
